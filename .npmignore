@@ -1,4 +1,3 @@
 src/
 .github/
 test/
-!dist/**/*
