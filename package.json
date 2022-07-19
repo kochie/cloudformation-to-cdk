@@ -1,0 +1,25 @@
+{
+  "name": "cloudformation-to-cdk",
+  "version": "1.0.0",
+  "description": "CLI tool to convert a CLoudFormation template to a CDK app.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kochie/cloudformation-to-cdk.git"
+  },
+  "keywords": [
+    "CDK",
+    "AWS",
+    "CloudFormation",
+    "TypeScript"
+  ],
+  "author": "Robert Koch <robert@kochie.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kochie/cloudformation-to-cdk/issues"
+  },
+  "homepage": "https://github.com/kochie/cloudformation-to-cdk#readme"
+}
