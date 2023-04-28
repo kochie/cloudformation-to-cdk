@@ -27,7 +27,9 @@
   },
   "homepage": "https://github.com/kochie/cloudformation-to-cdk#readme",
   "dependencies": {
-    "commander": "^9.4.0"
+    "aws-cdk-lib": "^2.33.0",
+    "commander": "^9.4.0",
+    "yaml": "^2.1.1"
   },
   "devDependencies": {
     "@types/jest": "^28.1.6",
